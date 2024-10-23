@@ -115,7 +115,7 @@ links:
       name: B站
       show: true
       href: https://space.bilibili.com/170010528?spm_id_from=333.1007.0.0
-      icon: https://fontawesome.com/icons/bilibili?f=brands&s=solid
+      icon: fab fa-bilibili
   - steam:
       name: Steam
       show: true
