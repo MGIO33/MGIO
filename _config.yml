@@ -88,7 +88,7 @@ links:
       icon: fab fa-twitter
   - weibo:
       name: 微博
-      show: false
+      show: true
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
   - vine:
